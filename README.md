@@ -17,9 +17,6 @@ bvnumber,title,title_remainder,place,date,title_types,relationship,target,source
 target und source sind die an dem Titel beteiligten Personen 
 -> Sind mehr als zwei Personen aus der Datenbank beteiligt wird jeder mit jedem kombiniert
 
-Ergebnisse unter: https://owncloud.gwdg.de/index.php/apps/files/?dir=/Fachgeschichte%20Musikwissenschaft/01-Datenbank/Arbeitspakete/Anreicherung_BSB_BMS/ergebnis_auf2021
-Und in der Hismuslog Datenbank Relationentabelle: "rl-bvb-medien-beziehungen-pers-pers".
-
 ## Getting Started
 
 ### Setup (Conda)
