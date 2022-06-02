@@ -1,0 +1,12 @@
+include README.md
+include VERSION
+include environment.yml
+include requirements.txt
+include setup.cfg
+
+exclude Makefile
+
+graft tests
+
+prune data
+prune data/test

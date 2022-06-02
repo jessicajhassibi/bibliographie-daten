@@ -1,0 +1,4 @@
+fire
+pandas
+pymarc
+setuptools>=40.0.0
